@@ -28,5 +28,4 @@ To classify reviews based on sentiment, the repository employs neural networks. 
 
 A robust data pipeline is established to streamline the integration of the BERT model into your workflow. This includes data loading, preprocessing, and model inference steps, providing a seamless and efficient process for analyzing sentiment in textual data.
 
-Feel free to explore and adapt the code in this repository to suit your specific needs. For detailed instructions on how to use each component, refer to the documentation provided in the corresponding code files.
-
+Feel free to explore and adapt the code in this repository to suit your specific needs. 
